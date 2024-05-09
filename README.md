@@ -5,7 +5,7 @@
 - QT Framework
 
 ## About
-This project aims to the elevator control system for a Building. Project enables multiple passengers, multiple floors and multiple elevators to all interact with each other with concurrency.
+This project aims to the elevator control system for a Building. Project enables multiple passengers, multiple floors and multiple elevators to all interact with each other concurrently.
 
 ## Project Structure
 - `/` Root directory contains the project report and readme
