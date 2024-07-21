@@ -5,7 +5,7 @@
 - QT Framework
 
 ## About
-This project aims to simulate a elevator control system for a Building. The application allows multiple passengers, multiple floors and multiple elevators to all interact with each other concurrently.
+Developed in C++, this project simulates an elevator control system for a building. The application supports concurrent interactions between multiple passengers, floors, and elevators.
 
 ## Project Structure
 - `/` Root directory contains the project report and readme
